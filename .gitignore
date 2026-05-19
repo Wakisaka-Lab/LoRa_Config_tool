@@ -1,0 +1,12 @@
+# Pythonの中間ファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller の生成物・一時ファイル
+build/
+*.spec
+
+# OSのシステムファイル
+.DS_Store
+Thumbs.db
